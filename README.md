@@ -6,3 +6,8 @@
 chmod x+ PetProject.swift
 '''
 5. Run code with 'swift PetProject.swift'
+```
+git status
+git add
+git commit
+```
